@@ -3,8 +3,7 @@
 <h1 align="center">MIUI Monet Icons</h1>
 
 <div align="center">Add the beauty of Monet Icons to your MIUI device</div>
-
-
+<br/><br/><br/>
 
 <div align="center">
    <a href="https://t.me/MIUIMonetUpdate"><img src="https://img.shields.io/badge/telegram-channel-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
@@ -12,8 +11,6 @@
    <a href="https://t.me/MIUIMonet"><img src="https://img.shields.io/badge/telegram-discuss-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram Group" /></a>
 </div>
-
-
 
 ### MIUI Apps
 <table>
