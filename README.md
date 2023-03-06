@@ -337,22 +337,6 @@
         <img src="./img/social/whatsapp.png" width="64">
         <p>GBWhatsapp</p>
     </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
-	<td align="center" valign="middle">
-    </td>
   </tr>
 </table>
 
