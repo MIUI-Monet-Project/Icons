@@ -185,67 +185,8 @@
   <tr>
     <td align="center" valign="middle">
         <img src="./img/miui/weather.png" width="64">
-        <p>Weather<br/>&nbsp;</p>
+        <p>Weather</p>
     </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/automated_task_foreground.png" width="64">
-        <p>Automated Tasks</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/battery_optimise_foreground.png" width="64">
-        <p>Battery Optimization</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/blocklist_foreground.png" width="64">
-        <p>Blocklist<br/>&nbsp;</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/data_usage_foreground.png" width="64">
-        <p>Data Usage</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/game_turbo_foreground.png" width="64">
-        <p>Game Turbo</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/mi_fitness_foreground.png" width="64">
-        <p>Mi Fitness</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/mi_inputmethod_foreground.png" width="64">
-        <p>Mi Input<br/>&nbsp;</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/mi_shop_foreground.png" width="64">
-        <p>Mi Store Global</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/permission_foreground.png" width="64">
-        <p>Permissions<br/>&nbsp;</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-        <img src="./img/miui/phone_foreground.png" width="64">
-        <p>Phone<br/>&nbsp;</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/phone_foreground.png" width="64">
-        <p>Phone Services</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/red_envelop_foreground.png" width="64">
-        <p>Red Envelope</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/wifi_test_foreground.png" width="64">
-        <p>Test Network</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/miui/updater_foreground.png" width="64">
-        <p>Updater<br/>&nbsp;</p>
-    </td>
-
   </tr>
 </table>
 
@@ -380,6 +321,7 @@
         <p>Youtube Music</p>
     </td>
   </tr>
+<<<<<<< HEAD
   <tr>
     <td align="center" valign="middle">
         <img src="./img/google/analytics.png" width="64">
@@ -453,6 +395,8 @@
     </td>
 
   </tr>
+=======
+>>>>>>> parent of bfaa0fd (New Icons)
 </table>
 
 
@@ -463,10 +407,11 @@
   <tr>
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp.png" width="64">
-        <p>Whatsapp<br/>&nbsp;</p>
+        <p>Whatsapp</p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp.png" width="64">
+<<<<<<< HEAD
         <p>GBWhatsapp<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
@@ -602,6 +547,9 @@
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp_business_foreground.png" width="64">
         <p>WA Business</p>
+=======
+        <p>GBWhatsapp</p>
+>>>>>>> parent of bfaa0fd (New Icons)
     </td>
   </tr>
 </table>
@@ -712,14 +660,6 @@
     <td align="center" valign="middle">
         <img src="./img/others/uc_browser.png" width="64">
         <p>UC Browser</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/others/payoneer_foreground.png" width="64">
-        <p>Payoneer</p>
-    </td>
-    <td align="center" valign="middle">
-        <img src="./img/others/spotify_foreground.png" width="64">
-        <p>Spotify</p>
     </td>
   </tr>
 </table>
