@@ -589,7 +589,7 @@
         <p>Weibo<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
-        <img src="./img/social/Whatsapp_business_foreground.png" width="64">
+        <img src="./img/social/whatsapp_business_foreground.png" width="64">
         <p>WA Business</p>
     </td>
   </tr>
