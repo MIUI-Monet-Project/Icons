@@ -539,6 +539,10 @@
         <p>QQ<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
+        <img src="./img/social/QQ_foreground.png" width="64">
+        <p>QQ (International)<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
         <img src="./img/social/reddit_foreground.png" width="64">
         <p>Reddit<br/>&nbsp;</p>
     </td>
@@ -566,12 +570,12 @@
         <img src="./img/social/twitch_foreground.png" width="64">
         <p>Twitch<br/>&nbsp;</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
         <img src="./img/social/twitter_foreground.png" width="64">
         <p>Twitter<br/>&nbsp;</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
         <img src="./img/social/twitter_lite_foreground.png" width="64">
         <p>Twitter Lite</p>
@@ -587,6 +591,10 @@
     <td align="center" valign="middle">
         <img src="./img/social/weibo_foreground.png" width="64">
         <p>Weibo<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/weibo_foreground.png" width="64">
+        <p>Weibo (International)<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp_business_foreground.png" width="64">
