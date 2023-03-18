@@ -577,7 +577,7 @@
         <p>Twitter Lite</p>
     </td>
     <td align="center" valign="middle">
-        <img src="./img/social/vk_foreground.png" width="64">
+        <img src="./img/social/VK_foreground.png" width="64">
         <p>VKontakte<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
