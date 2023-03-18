@@ -186,8 +186,67 @@
   <tr>
     <td align="center" valign="middle">
         <img src="./img/miui/weather.png" width="64">
-        <p>Weather</p>
+        <p>Weather<br/>&nbsp;</p>
     </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/automated_task_foreground.png" width="64">
+        <p>Automated Tasks</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/battery_optimise_foreground.png" width="64">
+        <p>Battery Optimization</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/blocklist_foreground.png" width="64">
+        <p>Blocklist<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/data_usage_foreground.png" width="64">
+        <p>Data Usage</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/game_turbo_foreground.png" width="64">
+        <p>Game Turbo</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/mi_fitness_foreground.png" width="64">
+        <p>Mi Fitness</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/mi_inputmethod_foreground.png" width="64">
+        <p>Mi Input<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/mi_shop_foreground.png" width="64">
+        <p>Mi Store Global</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/permission_foreground.png" width="64">
+        <p>Permissions<br/>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/miui/phone_foreground.png" width="64">
+        <p>Phone<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/phone_foreground.png" width="64">
+        <p>Phone Services</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/red_envelop_foreground.png" width="64">
+        <p>Red Envelope</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/wifi_test_foreground.png" width="64">
+        <p>Test Network</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/miui/updater_foreground.png" width="64">
+        <p>Updater<br/>&nbsp;</p>
+    </td>
+
   </tr>
 </table>
 <br/><br/><br/>
@@ -320,6 +379,79 @@
         <p>Youtube Music</p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/google/analytics.png" width="64">
+        <p>Analytics<br/><br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/family_link.png" width="64">
+        <p>Family Link<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/find_Device.png" width="64">
+        <p>Find My Device<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_authenticator.png" width="64">
+        <p>Google Authenticator<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_chat.png" width="64">
+        <p>Google Chat<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_contacts.png" width="64">
+        <p>Google Contacts<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_docs.png" width="64">
+        <p>Google Docs<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_meet.png" width="64">
+        <p>Google Meet (Original)</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_news.png" width="64">
+        <p>Google News<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_sheets.png" width="64">
+        <p>Google Sheets<br/>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_slides.png" width="64">
+        <p>Google Slides</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/google_tasks.png" width="64">
+        <p>Google Tasks</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/gpay.png" width="64">
+        <p>Google Pay</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/play_console.png" width="64">
+        <p>Play Console<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/podcast.png" width="64">
+        <p>Podcast<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/snapseed_foreground.png" width="64">
+        <p>Snapseed<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/google/wallet.png" width="64">
+        <p>Wallet<br/>&nbsp;</p>
+    </td>
+
+  </tr>
 </table>
 <br/><br/><br/>
 
@@ -328,11 +460,137 @@
   <tr>
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp.png" width="64">
-        <p>Whatsapp</p>
+        <p>Whatsapp<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/whatsapp.png" width="64">
-        <p>GBWhatsapp</p>
+        <p>GBWhatsapp<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/bgram_foreground.png" width="64">
+        <p>BGram<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/discord_foreground.png" width="64">
+        <p>Discord<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/facebook2_foreground.png" width="64">
+        <p>Facebook<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/facebook_lite_foreground.png" width="64">
+        <p>Facebook Lite</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/graph_messenger_foreground.png" width="64">
+        <p>Graph Messenger</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/instagram_foreground.png" width="64">
+        <p>Instagram<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/instagram_lite_foreground.png" width="64">
+        <p>Instagram Lite</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/social/linkedin_foreground.png" width="64">
+        <p>LinkedIn<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/linkedin_lite_foreground.png" width="64">
+        <p>LinkedIn Lite<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/messenger_foreground.png" width="64">
+        <p>Messenger<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/messenger_lite_foreground.png" width="64">
+        <p>Messenger Lite</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/nekogram_foreground.png" width="64">
+        <p>Nekogram<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/nekogram_x_foreground.png" width="64">
+        <p>Nekogram X</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/ok_foreground.png" width="64">
+        <p>OK<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/owlgram_foreground.png" width="64">
+        <p>Owlgram<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/plus_messenger_foreground.png" width="64">
+        <p>Plus Messenger</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/social/QQ_foreground.png" width="64">
+        <p>QQ<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/reddit_foreground.png" width="64">
+        <p>Reddit<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/signal_foreground.png" width="64">
+        <p>Signal<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/snapchat_foreground.png" width="64">
+        <p>Snapchat<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/telegram_foreground.png" width="64">
+        <p>Telegram<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/telegram_beta_foreground.png" width="64">
+        <p>Telegram Beta</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/telegram_x_foreground.png" width="64">
+        <p>Telegram X<<br/>&nbsp;/p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/twitch_foreground.png" width="64">
+        <p>Twitch<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/twitter_foreground.png" width="64">
+        <p>Twitter<br/>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+        <img src="./img/social/twitter_lite_foreground.png" width="64">
+        <p>Twitter Lite</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/vk_foreground.png" width="64">
+        <p>VKontakte<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/wechat_foreground.png" width="64">
+        <p>WeChat<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/weibo_foreground.png" width="64">
+        <p>Weibo<br/>&nbsp;</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/social/Whatsapp_business_foreground.png" width="64">
+        <p>WA Business</p>
     </td>
   </tr>
 </table>
@@ -440,6 +698,14 @@
     <td align="center" valign="middle">
         <img src="./img/others/uc_browser.png" width="64">
         <p>UC Browser</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/others/payoneer_foreground.png" width="64">
+        <p>Payoneer</p>
+    </td>
+    <td align="center" valign="middle">
+        <img src="./img/others/spotify_foreground.png" width="64">
+        <p>Spotify</p>
     </td>
   </tr>
 </table>
