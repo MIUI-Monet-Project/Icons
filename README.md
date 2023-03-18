@@ -560,7 +560,7 @@
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/telegram_x_foreground.png" width="64">
-        <p>Telegram X<<br/>&nbsp;</p>
+        <p>Telegram X<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/twitch_foreground.png" width="64">
