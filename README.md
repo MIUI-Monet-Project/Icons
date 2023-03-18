@@ -11,7 +11,6 @@
    <a href="https://t.me/MIUIMonet"><img src="https://img.shields.io/badge/telegram-discuss-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram Group" /></a>
 </div>
-<br/><br/><br/>
 
 ### MIUI Apps
 <table>
@@ -249,7 +248,9 @@
 
   </tr>
 </table>
-<br/><br/><br/>
+
+
+
 
 ### Google Apps
 <table>
@@ -453,7 +454,9 @@
 
   </tr>
 </table>
-<br/><br/><br/>
+
+
+
 
 ### Social Media
 <table>
@@ -602,7 +605,10 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/>
+
+
+
+
 
 ### Other apps
 <table>
