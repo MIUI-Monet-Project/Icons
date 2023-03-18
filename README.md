@@ -389,7 +389,7 @@
         <p>Family Link<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
-        <img src="./img/google/find_Device.png" width="64">
+        <img src="./img/google/find_device.png" width="64">
         <p>Find My Device<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
@@ -544,15 +544,15 @@
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/signal_foreground.png" width="64">
-        <p>Signal<br/>&nbsp;</p>
+        <p>Signal<br/></p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/snapchat_foreground.png" width="64">
-        <p>Snapchat<br/>&nbsp;</p>
+        <p>Snapchat<br/></p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/telegram_foreground.png" width="64">
-        <p>Telegram<br/>&nbsp;</p>
+        <p>Telegram<br/></p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/telegram_beta_foreground.png" width="64">
@@ -560,7 +560,7 @@
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/telegram_x_foreground.png" width="64">
-        <p>Telegram X<<br/>&nbsp;/p>
+        <p>Telegram X<<br/>&nbsp;</p>
     </td>
     <td align="center" valign="middle">
         <img src="./img/social/twitch_foreground.png" width="64">
